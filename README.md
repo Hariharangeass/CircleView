@@ -1,4 +1,4 @@
 # CircleView
-圆形进度条                                                                                                                动画显示进度                                                                                                                   动画显示数值
-![动画](http://i.niupic.com/images/2015/07/13/55a382da66ea6.gif)
+圆形进度条,支持进度条动画显示，进度条数值动画显示。
+![动画](http://ww3.sinaimg.cn/mw1024/65cc0af7gw1egmzobh53fg206i0bmq6b.gif)
 
